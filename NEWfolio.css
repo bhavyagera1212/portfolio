@@ -48,13 +48,20 @@ header h2 {
     max-width: 1200px;
     margin: auto;
     overflow: hidden;
+
+    border-radius: 20%;
+
+    background: #f3ecdc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
 }
 
-#about, #projects, #info,#education {
+#about, #projects, #info,#education, #experience {
     padding: 20px 0;
 }
 
-#about h2, #projects h2, #info h2 ,#education h2{
+#about h2, #projects h2, #info h2 ,#education h2, #experience h2{
     text-align: center;
     margin-bottom: 20px;
 }
